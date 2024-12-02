@@ -3,7 +3,7 @@
      - **Features**:  
        - Set up donation buttons during live streams or videos.  
        - Funds are sent directly to eligible nonprofits.  
-     - **Best For**: Live streaming and engaging HololiveEN fans.  
+     - **Best For**: Live streaming and engaging fans.  
   
   2. **[Facebook Fundraisers](https://www.facebook.com/fundraisers/)**  
      - **Features**:  
@@ -27,7 +27,7 @@
      - **Features**:  
        - Embeddable donation forms for websites.  
        - Transfers funds directly to verified nonprofits.  
-     - **Best For**: A dedicated website for "Fauna’s Forest."  
+     - **Best For**: A dedicated website. 
   
   ---
   
@@ -75,7 +75,7 @@
      - **Features**:  
        - Built for streamers; integrates with Twitch and YouTube.  
        - Direct donation routing to charities.  
-     - **Best For**: Partnering with HololiveEN creators.  
+     - **Best For**: Partnering with creators.  
   
   2. **[JustGiving](https://www.justgiving.com/)**  
      - **Features**:  
